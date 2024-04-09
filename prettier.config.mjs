@@ -11,7 +11,7 @@ const config = {
   organizeImportsSkipDestructiveCodeActions: true,
   jsxSingleQuote: true,
   bracketSameLine: false,
-  plugins: ['prettier-plugin-organize-imports'],
+  //plugins: ['prettier-plugin-organize-imports'],
 }
 
 export default config;
